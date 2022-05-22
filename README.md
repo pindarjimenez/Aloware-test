@@ -78,4 +78,4 @@ http://localhost:8000
 ```
 
 ## License
-Copyright © 2022, Pindar Jimenez
+Copyright © 2022, Pindar Jimenez Jr
